@@ -21,14 +21,17 @@ input = 361527
 
 '''
 
+
 def move(n):
-    #TODO
+
+
+# TODO
 
 
 
-assert(move(1) == 0)
-assert(move(12) == 3)
-assert(move(23) == 2)
-assert(move(1024) == 31)
+assert (move(1) == 0)
+assert (move(12) == 3)
+assert (move(23) == 2)
+assert (move(1024) == 31)
 
 print(move(input))

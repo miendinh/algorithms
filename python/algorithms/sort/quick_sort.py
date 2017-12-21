@@ -1,3 +1,9 @@
+'''
+Time complexility
+Best: O(nlgn)
+Bad: O(n^2)
+Avarage: O(nlgn)
+'''
 def qsort(k, l, h):
 
     if l >= h:
@@ -30,6 +36,18 @@ def qsort(k, l, h):
 
 k = [1, 3, 4, 10, 5, 4]
 
-qsort(k, 0, 5)
+'''
+pivot = 4
+i = 2 k[i]=4
+j = 5 k[j]=4
+
+i=3 ->10
+j=4 ->5
+
+qsork(k, 0,3)
+qsort(k, 4, 5)
+'''
+
+qsort(k, 0, len(k) - 1)
 
 assert(k == [1, 3, 4, 4, 5, 10])
