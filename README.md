@@ -1,7 +1,6 @@
 ## Algorithms
 
-"The great algorithms are the poetry of computation"
- ~Francis Sullivan~
+"The great algorithms are the poetry of computation" - Francis Sullivan -
 
 ### I. Data Structures
 | Order                         |Java|Scala|Python|
@@ -42,13 +41,3 @@
 |:------------------------------|:--:|:---:|:----:|
 | 1. Two sum                    | [] | [] | [x] |
 | 2. Reverse integer            | [] | [] | [x] |
-
-## References
-1. http://interactivepython.org
-2. System Interview
-http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/
-https://github.com/donnemartin/system-design-primer
-https://github.com/checkcheckzz/system-design-interview
-https://www.educative.io/collection/5668639101419520/5649050225344512?utm_source=google_ars&utm_medium=cpc
-
-3. Code Interview
