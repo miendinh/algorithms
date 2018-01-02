@@ -34,7 +34,7 @@
 | 6. Big-O Time                  | [ ] | [ ] | [ ] |
 
 ### IV. Design Patterns
-## 4.1 Creation
+## 4.1. Creational design patterns
 | Order                         |Java|Scala|Python|
 |:------------------------------|:--:|:---:|:----:|
 | 1. Abstract Factory           | [ ] | [ ] | [ ] |
@@ -44,7 +44,8 @@
 | 5. Recursion                  | [ ] | [ ] | [ ] |
 | 6. Prototype                  | [ ] | [ ] | [ ] |
 | 7. Singleton                  | [ ] | [ ] | [ ] |
-## 4.2 Structure
+
+## 4.2. Structural design patterns
 | Order                         |Java|Scala|Python|
 |:------------------------------|:--:|:---:|:----:|
 | 1. Adapter                    | [ ] | [ ] | [ ] |
@@ -56,7 +57,7 @@
 | 7. Private Class Data         | [ ] | [ ] | [ ] |
 | 8. Proxy                      | [ ] | [ ] | [ ] |
 
-## 4.3 Behavior
+## 4.3 Behavioral design patterns
 | Order                         |Java|Scala|Python|
 |:------------------------------|:--:|:---:|:----:|
 | 1. Chain of responsibility    | [ ] | [ ] | [ ] |
