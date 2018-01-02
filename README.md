@@ -47,7 +47,7 @@
 ### IV. Design Patterns
 #### 4.1. Creational design patterns
 | Order                         |Java|Scala|Python|
-|:------------------------------|:--:|:---:|:----:|
+|----------------|---------------|---------------|----------------|
 | 1. Abstract Factory           | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
 | 2. Builder                    | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
 | 3. Factory Method             | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
@@ -58,7 +58,7 @@
 
 #### 4.2. Structural design patterns
 | Order                         |Java|Scala|Python|
-|:------------------------------|:--:|:---:|:----:|
+|----------------|---------------|---------------|----------------|
 | 1. Adapter                    | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
 | 2. Bridge                     | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
 | 3. Composite                  | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
@@ -70,7 +70,7 @@
 
 #### 4.3 Behavioral design patterns
 | Order                         |Java|Scala|Python|
-|:------------------------------|:--:|:---:|:----:|
+|----------------|---------------|---------------|----------------|
 | 1. Chain of responsibility    | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
 | 2. Command                    | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
 | 3. Interpreter                | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
@@ -83,11 +83,11 @@
 | 10. Strategy                  | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
 | 10. Strategy                  | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
 | 11. Template method           | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
-| 12. Visitor                   | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul>
+| 12. Visitor                   | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] xxx</li></ul>
 
 ### V. Practice Problems
 | Order                         |Java|Scala|Python|
-|:------------------------------|:--:|:---:|:----:|
+|----------------|---------------|---------------|----------------|
 | 1. Two sum                    | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[x</li></ul>
 | 2. Reverse integer            | <ul><li>[ ]</li></ul> | <ul><li>[ ]</li></ul> | <ul><li>[x</li></ul>
 
