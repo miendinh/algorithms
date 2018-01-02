@@ -14,14 +14,25 @@
 | 7. Hash Tables                | [ ] | [ ] | [ ] |
 
 ### II. Algorithms
+#### 2.1. Sorting
 | Order                         |Java|Scala|Python|
 |:------------------------------|:--:|:---:|:----:|
-| 1. Breadth First Search        | [ ] | [ ] | [ ] |
-| 2. Depth First Search          | [ ] | [ ] | [ ] |
-| 3. Binary Search               | [ ] | [ ] | [ ] |
-| 4. Merge Sort                  | [ ] | [ ] | [ ] |
-| 5. Quick Sort                  | [X] | [X] | [X] |
-| 6. Tree Insert / Find / etc    | [ ] | [ ] | [ ] |
+| 1. Selection Sort             | [ ] | [ ] | [ ] |
+| 2. Bubble Sort                | [ ] | [ ] | [ ] |
+| 3. Insertion Sort             | [ ] | [ ] | [ ] |
+| 3. Shell Sort                 | [ ] | [ ] | [ ] |
+| 5. Quick Sort                 | [X] | [X] | [X] |
+| 5. Head Sort                  | [X] | [X] | [X] |
+| 5. Radix Sort                 | [ ] | [ ] | [ ] |
+| 6. Merge Sort                 | [ ] | [ ] | [ ] |
+| 7. Tree Insert / Find / etc   | [ ] | [ ] | [ ] |  
+
+#### 2.2. Searching
+| Order                         |Java|Scala|Python|
+|:------------------------------|:--:|:---:|:----:|
+| 1. Binary Search               | [ ] | [ ] | [ ] |
+| 2. Breadth First Search        | [ ] | [ ] | [ ] |
+| 3. Depth First Search          | [ ] | [ ] | [ ] |
 
 ### III. Concepts
 | Order                         |Java|Scala|Python|
@@ -34,7 +45,7 @@
 | 6. Big-O Time                  | [ ] | [ ] | [ ] |
 
 ### IV. Design Patterns
-## 4.1. Creational design patterns
+#### 4.1. Creational design patterns
 | Order                         |Java|Scala|Python|
 |:------------------------------|:--:|:---:|:----:|
 | 1. Abstract Factory           | [ ] | [ ] | [ ] |
@@ -45,7 +56,7 @@
 | 6. Prototype                  | [ ] | [ ] | [ ] |
 | 7. Singleton                  | [ ] | [ ] | [ ] |
 
-## 4.2. Structural design patterns
+#### 4.2. Structural design patterns
 | Order                         |Java|Scala|Python|
 |:------------------------------|:--:|:---:|:----:|
 | 1. Adapter                    | [ ] | [ ] | [ ] |
@@ -57,7 +68,7 @@
 | 7. Private Class Data         | [ ] | [ ] | [ ] |
 | 8. Proxy                      | [ ] | [ ] | [ ] |
 
-## 4.3 Behavioral design patterns
+#### 4.3 Behavioral design patterns
 | Order                         |Java|Scala|Python|
 |:------------------------------|:--:|:---:|:----:|
 | 1. Chain of responsibility    | [ ] | [ ] | [ ] |
