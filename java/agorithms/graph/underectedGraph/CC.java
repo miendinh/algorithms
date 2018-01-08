@@ -1,4 +1,9 @@
 // Connectivity queries
+/*
+  - Reflexive
+  - Symmetric
+  - Transitive
+*/
 
 /*
 public class CC
