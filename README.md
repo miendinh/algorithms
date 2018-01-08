@@ -5,11 +5,11 @@
 ### I. Data Structures
 | Order                         |Java|Scala|Python|
 |:------------------------------|:--:|:---:|:----:|
-| 1. Linked Lists               | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
+| 1. Linked Lists               | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul>
 | 2. Binary Trees               | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 | 3. Tries                      | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 | 4. Stacks                     | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul>
-| 5. Queues                     | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
+| 5. Queues                     | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul>
 | 6. Vectors / ArrayLists       | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 | 7. Hash Tables                | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 
