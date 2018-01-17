@@ -31,8 +31,8 @@
 | Order                         |Java|Scala|Python|
 |:------------------------------|:--:|:---:|:----:|
 | 1. Binary Search               | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
-| 2. Breadth First Search        | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
-| 3. Depth First Search          | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
+| 2. Breadth First Search        | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
+| 3. Depth First Search          | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 
 ### III. Concepts
 | Order                         |Java|Scala|Python|
@@ -66,7 +66,7 @@
 | 5. Facade                     | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 | 6. Flyweight                  | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 | 7. Private Class Data         | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
-| 8. Proxy                      | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
+| 8. Proxy                      | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul>
 
 #### 4.3 Behavioral design patterns
 | Order                         |Java|Scala|Python|
@@ -78,11 +78,11 @@
 | 5. Mediator                   | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 | 6. Mememto                    | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 | 7. Null Object                | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
-| 8. Observer                   | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
+| 8. Observer                   | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul>
 | 9. State                      | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 | 10. Strategy                  | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 | 11. Template method           | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
-| 12. Visitor                   | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
+| 12. Visitor                   | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul>
 
 ### V. Practice Problems
 | Order                         |Java|Scala|Python|
